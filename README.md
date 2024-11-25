@@ -1,3 +1,17 @@
 # Hi, I'm Phil.
 
-![console-image](https://www.denofgeek.com/wp-content/uploads/2023/07/Best-Video-Game-Consoles-Ranked_Lead.jpg?resize=768%2C432)
+I'm currently studying web development at [neue fische](https://www.neuefische.de/)
+Over the last 3 years, i learned web development on my own and worked for a half year at Twelve by Twelve.
+
+## My Skills
+
+- HTML
+- CSS
+- Javascript
+- Typescript
+- Tailwind CSS
+- React
+- Next.JS
+- GitHub
+
+![code image](https://www.shamwela.com/_next/image?url=%2Fimages%2Ftailwind-css-code-example.png&w=828&q=75)
