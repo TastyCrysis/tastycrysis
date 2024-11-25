@@ -1,6 +1,7 @@
 # Hi 👋, I'm Phil.
 
 📚 I'm currently studying web development at [neue fische](https://www.neuefische.de/) 🐡
+
 Over the last 3 years, i learned web development on my own and worked for a half year at Twelve by Twelve as Frontend Developer.
 
 🏠 I'm living in Bavaria, 🇩🇪.
